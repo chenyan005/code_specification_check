@@ -1,0 +1,32 @@
+/go-revive-3/named/named_on_subtests_on.go:5:1: exported function TestFoo038 should have comment or be unexported
+/go-revive-3/named/named_on_template_testify.go:9:1: exported function TestFoo038 should have comment or be unexported
+/go-revive-3/named/named_on_subtests_on_parallel_on_template_testify.go:9:1: exported function TestFoo038 should have comment or be unexported
+/go-revive-3/named/named_on.go:5:1: exported function TestFoo038 should have comment or be unexported
+/go-revive-3/named/named_on_subtests_on_parallel_on.go:5:1: exported function TestFoo038 should have comment or be unexported
+/go-revive-3/named/named_on_subtests_on_template_testify.go:9:1: exported function TestFoo038 should have comment or be unexported
+/go-revive-3/test100.go:10:1: comment on exported function Foo100 should be of the form "Foo100 ..."
+/go-revive-3/test038.go:3:1: exported function Foo038 should have comment or be unexported
+/go-revive-3/test035.go:5:1: exported method Importer.Foo35 should have comment or be unexported
+/go-revive-3/test101.go:3:1: exported function Foo101 should have comment or be unexported
+/go-revive-3/test102.go:3:1: exported function Foo102 should have comment or be unexported
+/go-revive-3/test100.go:13:1: exported method Bar.Bar100 should have comment or be unexported
+/go-revive-3/testfiles.go:5:6: exported type Bar should have comment or be unexported
+/go-revive-3/test036.go:3:1: exported function SameName should have comment or be unexported
+/go-revive-3/testfiles.go:7:6: exported type Bazzar should have comment or be unexported
+/go-revive-3/test036.go:11:1: exported method SameTypeName.SameName should have comment or be unexported
+/go-revive-3/testfiles.go:15:6: exported type Celsius should have comment or be unexported
+/go-revive-3/test034.go:3:1: exported method Reserved.DontFail should have comment or be unexported
+/go-revive-3/test201.go:3:1: exported function Foo201a should have comment or be unexported
+/go-revive-3/testfiles.go:17:6: exported type Fahrenheit should have comment or be unexported
+/go-revive-3/test201.go:5:1: exported function Foo201b should have comment or be unexported
+/go-revive-3/test201.go:7:1: exported function Foo201c should have comment or be unexported
+/go-revive-3/testfiles.go:19:6: exported type Person should have comment or be unexported
+/go-revive-3/testfiles.go:27:6: exported type Doctor should have comment or be unexported
+/go-revive-3/test201.go:9:1: exported function Foo201d should have comment or be unexported
+/go-revive-3/test201.go:11:1: exported function Foo201e should have comment or be unexported
+/go-revive-3/testfiles.go:36:6: exported type Name should have comment or be unexported
+/go-revive-3/testfiles.go:40:6: exported type Reserved should have comment or be unexported
+/go-revive-3/testfiles.go:69:6: exported type Importer should have comment or be unexported
+/go-revive-3/testfiles.go:74:6: exported type SameTypeName should have comment or be unexported
+/go-revive-3/test200.go:1:1: package comment should be of the form "Package testdata ..."
+/go-revive-3/test100.go:1:1: package comment should be of the form "Package testdata ..."

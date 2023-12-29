@@ -1,0 +1,14 @@
+Starting audit...
+[WARN] \java-checkstyle-3\jenkins-web-test-master\src\main\java\blog\elmland\EchoResource.java:18:1: Wrong lexicographical order for 'jakarta.ejb.EJB' import. Should be before 'java.time.Instant'. [CustomImportOrder]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\main\java\blog\elmland\EchoResource.java:19:1: Wrong lexicographical order for 'jakarta.ws.rs.GET' import. Should be before 'java.time.Instant'. [CustomImportOrder]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\main\java\blog\elmland\EchoResource.java:20:1: Wrong lexicographical order for 'jakarta.ws.rs.Path' import. Should be before 'java.time.Instant'. [CustomImportOrder]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\main\java\blog\elmland\EchoResource.java:25: Javadoc tag '@author' should be preceded with an empty line. [RequireEmptyLineBeforeBlockTagGroup]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\main\java\blog\elmland\EchoResource.java:36: Javadoc tag '@return' should be preceded with an empty line. [RequireEmptyLineBeforeBlockTagGroup]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\main\java\blog\elmland\EchoService.java:18:1: Wrong lexicographical order for 'jakarta.ejb.Stateless' import. Should be before 'java.util.Objects'. [CustomImportOrder]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\main\java\blog\elmland\EchoService.java:23: Javadoc tag '@author' should be preceded with an empty line. [RequireEmptyLineBeforeBlockTagGroup]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\main\java\blog\elmland\EchoService.java:30: Javadoc tag '@param' should be preceded with an empty line. [RequireEmptyLineBeforeBlockTagGroup]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\main\java\blog\elmland\RestConfiguration.java:23: Javadoc tag '@author' should be preceded with an empty line. [RequireEmptyLineBeforeBlockTagGroup]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\test\java\blog\elmland\EchoServiceTest.java:14:1: 'package' should be separated from previous line. [EmptyLineSeparator]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\test\java\blog\elmland\EchoServiceTest.java:18:1: 'org.junit.Test' should be separated from previous import group by one line. [CustomImportOrder]
+[WARN] .\java-checkstyle-3\jenkins-web-test-master\src\test\java\blog\elmland\EchoServiceTest.java:23: Javadoc tag '@author' should be preceded with an empty line. [RequireEmptyLineBeforeBlockTagGroup]
+Audit done.

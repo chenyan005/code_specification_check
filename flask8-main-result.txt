@@ -1,0 +1,3 @@
+/flask8-main/main.py:6:1: F401 'estatistica_detalhada.EstatisticaDetalhada' imported but unused
+/flask8-main/testes.py:4:6: E231 missing whitespace after ':'
+/flask8-main/testes.py:4:22: W292 no newline at end of file

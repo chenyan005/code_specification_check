@@ -1,0 +1,34 @@
+Tester/tbt_01basic.t:6:1:Code before strictures are enabled [5] (TestingAndDebugging::RequireUseStrict) - See page 429 of PBP
+Tester/tbt_01basic.t:6:1:Code before warnings are enabled [4] (TestingAndDebugging::RequireUseWarnings) - See page 431 of PBP
+Tester/tbt_01basic.t:24:10:Regular expression without "/x" flag [3] (RegularExpressions::RequireExtendedFormatting) - See page 236 of PBP
+Tester/tbt_01basic.t:40:1:Test without a label [3] (TestingAndDebugging::RequireTestLabels) - Add a label argument to all Test::More functions
+Tester/tbt_01basic.t:40:10:Test without a label [3] (TestingAndDebugging::RequireTestLabels) - Add a label argument to all Test::More functions
+Tester/tbt_02fhrestore.t:10:1:Code before strictures are enabled [5] (TestingAndDebugging::RequireUseStrict) - See page 429 of PBP
+Tester/tbt_02fhrestore.t:10:1:Code before warnings are enabled [4] (TestingAndDebugging::RequireUseWarnings) - See page 431 of PBP
+Tester/tbt_02fhrestore.t:43:1:Always unpack @_ first [4] (Subroutines::RequireArgUnpacking) - See page 178 of PBP
+Tester/tbt_02fhrestore.t:43:1:Subroutine "PRINT" does not end with "return" [4] (Subroutines::RequireFinalReturn) - See page 197 of PBP
+Tester/tbt_03die.t:6:1:Return value of eval not tested [3] (ErrorHandling::RequireCheckingReturnValueOfEval) - You can't depend upon the value of $@/$EVAL_ERROR to tell whether an eval failed
+Tester/tbt_03die.t:6:1:Code before strictures are enabled [5] (TestingAndDebugging::RequireUseStrict) - See page 429 of PBP
+Tester/tbt_03die.t:6:1:Code before warnings are enabled [4] (TestingAndDebugging::RequireUseWarnings) - See page 431 of PBP
+Tester/tbt_04line_num.t:6:1:Code before strictures are enabled [5] (TestingAndDebugging::RequireUseStrict) - See page 429 of PBP
+Tester/tbt_04line_num.t:6:1:Code before warnings are enabled [4] (TestingAndDebugging::RequireUseWarnings) - See page 431 of PBP
+Tester/tbt_05faildiag.t:8:1:Code before strictures are enabled [5] (TestingAndDebugging::RequireUseStrict) - See page 429 of PBP
+Tester/tbt_05faildiag.t:8:1:Code before warnings are enabled [4] (TestingAndDebugging::RequireUseWarnings) - See page 431 of PBP
+Tester/tbt_05faildiag.t:27:12:Subroutine "new" called using indirect syntax [4] (Objects::ProhibitIndirectSyntax) - See page 349 of PBP
+Tester/tbt_06errormess.t:17:1:Code before warnings are enabled [4] (TestingAndDebugging::RequireUseWarnings) - See page 431 of PBP
+Tester/tbt_06errormess.t:34:1:Subroutine "start_testing" does not end with "return" [4] (Subroutines::RequireFinalReturn) - See page 197 of PBP
+Tester/tbt_06errormess.t:47:26:Magic variable "$ENV" should be assigned as "local" [4] (Variables::RequireLocalizedPunctuationVars) - See pages 81,82 of PBP
+Tester/tbt_06errormess.t:62:1:Subroutine "my_test_test" does not end with "return" [4] (Subroutines::RequireFinalReturn) - See page 197 of PBP
+Tester/tbt_06errormess.t:71:24:Magic variable "$ENV" should be assigned as "local" [4] (Variables::RequireLocalizedPunctuationVars) - See pages 81,82 of PBP
+Tester/tbt_06errormess.t:77:3:"$got" is declared but not used [3] (Variables::ProhibitUnusedVariables) - Unused variables clutter code and make it harder to read
+Tester/tbt_06errormess.t:78:3:"$wanted" is declared but not used [3] (Variables::ProhibitUnusedVariables) - Unused variables clutter code and make it harder to read
+Tester/tbt_07args.t:17:1:Code before warnings are enabled [4] (TestingAndDebugging::RequireUseWarnings) - See page 431 of PBP
+Tester/tbt_07args.t:34:1:Subroutine "start_testing" does not end with "return" [4] (Subroutines::RequireFinalReturn) - See page 197 of PBP
+Tester/tbt_07args.t:47:26:Magic variable "$ENV" should be assigned as "local" [4] (Variables::RequireLocalizedPunctuationVars) - See pages 81,82 of PBP
+Tester/tbt_07args.t:62:1:Subroutine "my_test_test" does not end with "return" [4] (Subroutines::RequireFinalReturn) - See page 197 of PBP
+Tester/tbt_07args.t:71:24:Magic variable "$ENV" should be assigned as "local" [4] (Variables::RequireLocalizedPunctuationVars) - See pages 81,82 of PBP
+Tester/tbt_07args.t:77:3:"$got" is declared but not used [3] (Variables::ProhibitUnusedVariables) - Unused variables clutter code and make it harder to read
+Tester/tbt_07args.t:78:3:"$wanted" is declared but not used [3] (Variables::ProhibitUnusedVariables) - Unused variables clutter code and make it harder to read
+Tester/tbt_08subtest.t source OK
+Tester/tbt_09do.t source OK
+Tester/tbt_09do_script.pl source OK

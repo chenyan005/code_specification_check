@@ -1,0 +1,19 @@
+{
+    "totals": {
+        "errors": 0,
+        "file_errors": 1
+    },
+    "files": {
+        "/phpstan-phpunit-phar-testcase-members-master/tests/FooTest.php": {
+            "errors": 1,
+            "messages": [
+                {
+                    "message": "Class TimeToCode\\Tests\\FooTest extends unknown class PHPUnit\\Framework\\TestCase.",
+                    "line": 8,
+                    "ignorable": false
+                }
+            ]
+        }
+    },
+    "errors": []
+}
