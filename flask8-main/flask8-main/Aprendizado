@@ -1,0 +1,34 @@
+- Case styles :
+  camelCase
+  PascalCase
+  snake_case
+  kebab-case
+
+  Aprendizado :
+
+  //Part 1
+
+    * Técnicas de Type hints;
+    * Conceitos de PEP-8;
+    * Como criar classes utilizando esses métodos;
+    * A diferença entre uma classe que usa essas técnicas e uma que não usa.
+
+  //Part 2
+
+    * Como instalar e usar o MyPy;
+    * A criar um projeto no GitHub;
+    * Como instalar e configurar o Flake8;
+    * Como alertar erros de estilo no commit;
+    * Como bloquear um commit que tenha problemas de estilo de código.
+
+  //Part 3
+
+    * Novas regras do PEP-8;
+    * O que é uma classe abstrata;
+    * O que é um Template Method.
+
+  //Part 4
+
+    * Sobre o padrão de projeto Factory;
+    * Como trabalhar com constantes seguindo o PEP-8;
+    * Mais técnicas de Type Hints.
